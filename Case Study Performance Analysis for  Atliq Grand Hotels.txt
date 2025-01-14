@@ -1,0 +1,16 @@
+Case Study: Performance Analysis for Atliq Grand Hotels
+
+Atliq Grand Hotels has tasked you with analyzing the performance of its properties across various metrics to enhance operational efficiency and profitability. The dataset provided includes details such as revenue, occupancy rates, ADR (Average Daily Rate), realization percentages, booking platforms, booking status, and guest ratings.
+
+Your objective is to create an interactive Power BI dashboard to answer key business questions, including:
+
+How does revenue and realization percentage vary across different properties and room categories?
+
+What is the contribution of luxury and business room categories to total revenue?
+
+Which booking platforms drive the most revenue and highest guest ratings?
+
+How do ADR and realization percentage perform across different platforms and days of the week?
+
+What trends in cancellations and guest ratings can be observed for better decision-making?
+
